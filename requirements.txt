@@ -1,0 +1,8 @@
+opencv-python
+opencv-contrib-python
+matplotlib
+scikit-image
+tqdm
+open3d
+numba
+pymeshlab
